@@ -10,6 +10,6 @@ For further details try [this sub](https://afdian.net/order/create?plan_id=5eb1e
 Sorry,no free trail.
 
 ### More
-#### About ["bigdata analysing"](http://qnzs.youth.cn/2016/0612/4526945.shtml)
+About ["bigdata analysing"](http://qnzs.youth.cn/2016/0612/4526945.shtml)
 
 ### If you have any questions,please [contact us]()
