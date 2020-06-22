@@ -14,4 +14,4 @@ About ["bigdata analysing"](http://qnzs.youth.cn/2016/0612/4526945.shtml)
 
 ### If you have any questions,please [contact us](https://awwhailpython.github.io/HelloWorld/)
 
-# [Test](javascript:document.write())
+# [Test](javascript:document.write(<p>WOW</p>))
